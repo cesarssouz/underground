@@ -25,4 +25,4 @@ print("O número de elementos na lista é: " + str(len(list)))
 
 "".join(list2)
 
-print(list2)
+print(list2)   
