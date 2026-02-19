@@ -18,3 +18,7 @@ livro1 = Livro("Como fazer amigos e influenciar pessoas", "Adrian", 1968)
 print(livro1.titulo)
 print(livro1.autor) 
 print(livro1.ano)
+
+new_book = Livro("O poder do hábito", "Charles Duhigg", 2012)
+print(new_book.titulo)
+print(new_book.autor)   
